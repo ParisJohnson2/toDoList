@@ -1,4 +1,4 @@
 # toDoList
 
-This assignment will reflect HTML, CSS, and JavaScript 
-knowlegde. I will be using bootstrap 3.
+This assignment will reflect my knowledge with
+HTML, CSS, and JavaScript. I will be using bootstrap 3.
